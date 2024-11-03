@@ -43,7 +43,7 @@ new Typewriter(txtAnim, {
 .pauseFor(100)
 .deleteChars(10)
 .typeString('<span style="color: gray"> + windows</span> !')
-.deleteChars(10)
+.deleteChars(30)
 .typeString('<span style="color: lightblue"> étudiant BTS SIO</span> !')
 .start()
 
