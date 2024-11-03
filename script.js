@@ -33,7 +33,7 @@ new Typewriter(txtAnim, {
 .changeDelay(40)
 .typeString('Moi c\'est Louis')
 .pauseFor(300)
-.typeString('<strong>, Dev Full-Stack</strong>')
+.typeString('<strong>, gddfhfjfjy</strong>')
 .pause(1000)
 .deleteChars(10)
 .typeString('<span style="color: midnightblue"> CSS</span> !')
