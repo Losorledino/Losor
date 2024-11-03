@@ -36,7 +36,7 @@ new Typewriter(txtAnim, {
 .typeString('<strong>, 18 ans</strong>')
 .pause(1000)
 .deleteChars(10)
-.typeString('<span style="color: technicien réseau"> CSS</span> !')
+.typeString('<span style="color: midnightblue"> technicien réseau</span> !')
 .pauseFor(100)
 .deleteChars(5)
 .typeString('<span style="color: violet"> linux</span> !')
